@@ -1,11 +1,11 @@
 #topBar {
   display: flex;
-  width: 320px;
-  height: 40px;
+  width: 400px;
+  height: 75px;
   padding: 0px;
   margin: 0px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
   text-align: right;
   transform: rotateY(180deg);
 }
@@ -17,27 +17,27 @@ margin: 0px;
 }
 
 .topButtons :first-child {
-  width: 160px;
-  height: 60px;
+  width: 200px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
  
 }
 
 #one2 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
   text-align: left;
   
 }
 
 #one3 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 .secondButtons {
@@ -47,31 +47,31 @@ margin: 0px;
 }
 
 #two1 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #two2 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #two3 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #two4 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 .thirdButtons {
@@ -81,31 +81,31 @@ margin: 0px;
 }
 
 #three1 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #three2 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #three3 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #three4 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 .fourthButtons {
@@ -115,31 +115,31 @@ margin: 0px;
 }
 
 #four1 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #four2 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #four3 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #four4 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 .fithButtons {
@@ -149,15 +149,15 @@ margin: 0px;
 }
 
 #five1 {
-  width: 240px;
-  height: 60px;
+  width: 300px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
 
 #five2 {
-  width: 80px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 0px;
-  border: solid black 1px;
+  border: solid black 2px;
 }
