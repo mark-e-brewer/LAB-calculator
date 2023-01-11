@@ -1,0 +1,163 @@
+#topBar {
+  display: flex;
+  width: 320px;
+  height: 40px;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 0px;
+  border: solid black 1px;
+  text-align: right;
+  transform: rotateY(180deg);
+}
+
+.topButtons {
+  display: flex;
+padding: 0px;
+margin: 0px;
+}
+
+.topButtons :first-child {
+  width: 160px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+ 
+}
+
+#one2 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+  text-align: left;
+  
+}
+
+#one3 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+.secondButtons {
+  display: flex;
+padding: 0px;
+margin: 0px;
+}
+
+#two1 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#two2 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#two3 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#two4 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+.thirdButtons {
+  display: flex;
+padding: 0px;
+margin: 0px;
+}
+
+#three1 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#three2 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#three3 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#three4 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+.fourthButtons {
+  display: flex;
+padding: 0px;
+margin: 0px;
+}
+
+#four1 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#four2 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#four3 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#four4 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+.fithButtons {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+
+#five1 {
+  width: 240px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
+
+#five2 {
+  width: 80px;
+  height: 60px;
+  border-radius: 0px;
+  border: solid black 1px;
+}
