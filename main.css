@@ -1,13 +1,11 @@
-#topBar {
-  display: flex;
-  width: 400px;
+
+.output {
+  width:400px;
   height: 75px;
-  padding: 0px;
-  margin: 0px;
-  border-radius: 0px;
-  border: solid black 2px;
+  background-color: black;
   text-align: right;
-  transform: rotateY(180deg);
+  color: white;
+  font-size: 50px;
 }
 
 .topButtons {
@@ -16,28 +14,30 @@ padding: 0px;
 margin: 0px;
 }
 
-.topButtons :first-child {
+#clear {
   width: 200px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
  
 }
 
-#one2 {
+#backspace {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
   text-align: left;
-  
+  font-size: 50px;
 }
 
-#one3 {
+#divide {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
 .secondButtons {
@@ -46,32 +46,36 @@ padding: 0px;
 margin: 0px;
 }
 
-#two1 {
+#seven {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#two2 {
+#eight {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#two3 {
+#nine {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#two4 {
+#multiply {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
 .thirdButtons {
@@ -80,32 +84,36 @@ padding: 0px;
 margin: 0px;
 }
 
-#three1 {
+#four {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#three2 {
+#five {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#three3 {
+#six {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#three4 {
+#subtract {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
 .fourthButtons {
@@ -114,32 +122,36 @@ padding: 0px;
 margin: 0px;
 }
 
-#four1 {
+#one {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#four2 {
+#two {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#four3 {
+#three {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#four4 {
+#addition {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
 .fithButtons {
@@ -148,16 +160,18 @@ margin: 0px;
   margin: 0px;
 }
 
-#five1 {
+#zero {
   width: 300px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
 
-#five2 {
+#equals {
   width: 100px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
+  font-size: 50px;
 }
