@@ -28,7 +28,7 @@ margin: 0px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
-  text-align: left;
+  text-align: center;
   font-size: 50px;
 }
 
@@ -37,7 +37,7 @@ margin: 0px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .secondButtons {
@@ -113,7 +113,7 @@ margin: 0px;
   height: 100px;
   border-radius: 0px;
   border: solid black 2px;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .fourthButtons {
